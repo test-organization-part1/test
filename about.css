@@ -1,0 +1,34 @@
+img{
+    height:220px;
+    width:200px
+}
+.boxx{
+    position:relative;
+    left:400px;
+}
+.about{
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.workout{
+    text-decoration: underline;
+}
+.workoutparas{
+    font-style: italic;
+}
+.homelink1{
+    position: relative;
+    left:1170px;
+    bottom:455px;
+}
+.aboutlink1{
+    position:relative;
+    left:1230px;
+    bottom:473px;
+}
+.portfoliolink1{
+    position:relative;
+    left:1300px;
+    bottom:491px;
+}

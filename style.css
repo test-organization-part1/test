@@ -1,0 +1,40 @@
+h1{
+    font-size: xx-large;
+}
+
+.homelink{
+    position:relative;
+    left:1170px;
+    bottom: 250px;
+}
+.aboutlink{
+    position: relative;
+    left:1230px;
+    bottom: 268px;
+}
+.portfoliolink{
+    position: relative;
+    left:1300px;
+    bottom: 286px;
+}
+.mainpage{
+   position: relative;
+   border-bottom:2px solid;
+   background-color: aquamarine;
+   padding:10px;
+   
+}
+.box{
+    width:300px;
+    background-color: beige;
+    position: relative;
+    left:500px;
+    height:150px;
+}
+.mainpara{
+    font-weight: bold;
+    font-style: italic;
+}
+body{
+    background-color:azure
+}
